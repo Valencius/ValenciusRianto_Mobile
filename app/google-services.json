@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745532316182",
+    "project_id": "finaltest-praetorian",
+    "storage_bucket": "finaltest-praetorian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745532316182:android:460dd26dc6c5fcef693337",
+        "android_client_info": {
+          "package_name": "com.example.finaltest_praetorian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745532316182-30if4k3njmvkrltiiarcg18ga422v3q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSFkq4tSP4y8QVkkBk_K8UBiW3GFWPbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745532316182-30if4k3njmvkrltiiarcg18ga422v3q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
